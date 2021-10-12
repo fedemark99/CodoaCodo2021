@@ -1,0 +1,28 @@
+.cont1{
+    width:40%;
+}
+
+.cont2{
+    width:85%;
+}
+
+.box1{
+    position: static;
+}
+
+.box2{
+    background-color: rgb(10, 65, 78);
+}
+
+.img {
+    filter: brightness(40%); 
+  }
+
+.img1{
+    width: 100%;
+
+  }
+
+.btnxl{
+    background-color: rgb(125, 200, 49);
+}  
